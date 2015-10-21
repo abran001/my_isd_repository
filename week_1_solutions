@@ -1,0 +1,39 @@
+ISD Week 1 Exercise
+1. What is a code repository (often also called version control system) used for? 
+Ans: Code repository is a place where you store all source codes. 
+2. Why is it advantageous to use a code repository? 
+Ans: This is because code repository can be used to access previous working code when the latest one is at fault, and it does not cause any problems when more than one person is working on  a project.
+3. Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software. 
+Ans: System software is structured into three components
+•	Operating systems -  controls the internal operations of the computer’s hardware, enables data to be saved and retrieved from hard drives and allows programs to run on the computer. For example Mac OS X, Windows 10, Linux, Android, IOS and many more.  
+•	Utility Programs – performs a specialised task that safe guards data that is stored. 
+•	Software development tools – software that software developers use to create, modify and test the software that is created.
+4. Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program. 
+Ans: An algorithm is set of rules that is followed by computer. It is useful tool as it can be used to solve the problem or tell computer to what to do. 
+5. Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR. 
+Ans:    
+1.	Beat eggs, milk, salt And pepper in bowl UNTIL blended.
+2.	Heat butter in a non-stick pan over medium heat UNTIL the pan is hot. 
+3.	IF the pan is hot then pour in the egg mixture.
+4.	WHILE eggs begin to set, gently pull the eggs across the pan with an inverted turner, forming large soft curds.
+6. Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
+Ans: Idle is an interpreter program that translate and executes the sets of instructions given by the user in high level language programs.
+
+
+
+
+
+
+
+
+Practical work using Python
+1) Write a command in the Idle shell that says “Hello world” 
+ 
+
+2) Write a program that produces the following output: Hello World I am in my ISD class right now
+
+3) Write a program that asks the user for his/her name and produces an output like: Hi there, what is your name? >User input to be read< Hello (Users name) How are you?
+
+
+
+4) Write a program that asks for two numbers (Python has all the basic mathematical functions in place, like +,- etc.), adds them up and dis
